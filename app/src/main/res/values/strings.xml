@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PingTaxi</string>
+    <string name="distance">Distance</string>
+    <string name="time">Time</string>
+    <string name="price">Price</string>
+    <string name="blank"></string>
+    <string name="destination">Enter your destination</string>
+    <string name="search">Search</string>
+    <string name="drop">Drop - off</string>
+    <string name="done">DONE</string>
+</resources>
